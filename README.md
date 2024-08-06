@@ -16,7 +16,9 @@ QuantumBOT is an advanced chatbot designed to assist with DevOps tasks, leveragi
 - Python 3.8+
 - FastAPI
 - Uvicorn (ASGI server)
-- [Other dependencies listed in `requirements.txt`]
+
+Note:- For more details on building your own chatbot for an enhanced DevOps experience, check out this [Hacker Noon article](https://hackernoon.com/build-your-own-chatbot-for-an-enhanced-devops-experience).
+
 
 ### Installation
 
